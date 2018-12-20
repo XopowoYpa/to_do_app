@@ -1,0 +1,21 @@
+#container{
+    width: 50%;
+    margin: 100px auto;
+}
+.inlineBlock{
+    display: inline-block;
+}
+.noneOutline{
+    outline: none!important;
+}
+#addEvent,#delAll,#delSelect{
+    margin-top: 30px;
+    float: right;
+}
+#delAll,#delSelect{
+    margin-right: 10px;
+}
+#noEvent{
+    margin: 30px auto;
+    font-size: 20px;
+}
